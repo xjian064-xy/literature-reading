@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献阅读"
+  short_description: "从查找和导入 Zotero，到全文精读、Obsidian 整理与带来源问答"
+  default_prompt: "使用 $literature-reading 帮我完成文献检索、筛选、导入 Zotero 和精读整理，沿用我的科研文献库并给出原文页码。"
