@@ -1,6 +1,6 @@
 # 文献阅读
 
-个人 Codex 技能，版本 **1.0.0**。将文献检索、Zotero 导入、真实全文精读和 Obsidian 整理连接成可重复使用的工作流。
+开源 Codex 技能，版本 **1.0.0**。将文献检索、Zotero 导入、真实全文精读和 Obsidian 整理连接成可重复使用的工作流。
 
 ## 使用
 
@@ -34,3 +34,7 @@
 ## 来源与版本
 
 由用户授权在本地创建，基于已经验证的 Zotero + Obsidian + Codex 个人工作流。未复制论文正文、账号凭据或第三方插件源码；当前版本为 1.0.0。
+
+## 开源许可
+
+采用 [MIT License](LICENSE)。技能目录内同样包含许可证，便于单独安装和分发。许可正文采用 [Choose a License 的 MIT 模板](https://choosealicense.com/licenses/mit/)。

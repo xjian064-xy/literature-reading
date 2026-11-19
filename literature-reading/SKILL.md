@@ -1,5 +1,6 @@
 ---
 name: literature-reading
+license: MIT
 description: 为用户执行“文献阅读”工作流：联网检索与筛选论文、按授权导入 Zotero、读取真实全文并整理到现有 Obsidian 科研文献库，以及基于库内证据开展问答、比较和综述。用户说“文献阅读”“找文献并导入”“同步精读新论文”或要求复用这套个人流程时使用；仅需独立 PDF 翻译、排版或软件介绍时不启动整套流程。
 metadata:
   version: "1.0.0"
